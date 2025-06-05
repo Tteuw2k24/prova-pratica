@@ -1,6 +1,6 @@
 using System;
 
-namespace ProvaP2Pratica
+namespace provaPratica
 {
     class produtos
 
