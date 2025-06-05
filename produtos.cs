@@ -2,27 +2,11 @@ using System;
 
 namespace provaPratica
 {
-    
-
-        public produtos(string nome, double preco, int quantidade, int id)
-        {
-            Id = id;
-            Nome = nome;
-            Preco = preco;
-            Quantidade = quantidade;
-        }
-    }
-    public class clientes
+   public interface IProduto
     {
-        public string Nome { get; set; }
-        public string Email { get; set; }
-        public int CPF { get; set; }
-
-        public clientes(string nome, string Email, int cpf)
-        {
-            Nome = nome;
-            this.Email = Email;
-            CPF = cpf;
-        }
+        public int Id { get; set }
+        public string Nome { get; set }
+        public decimal Preco { get; set }
+        public int Quantidade { get; set}
     }
 }
