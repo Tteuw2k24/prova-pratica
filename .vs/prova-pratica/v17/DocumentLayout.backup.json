@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\IProdutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IProdutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\IClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\criarProduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:criarProduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,34 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "clientes.cs",
-              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\clientes.cs",
-              "RelativeDocumentMoniker": "clientes.cs",
-              "ToolTip": "C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\clientes.cs",
-              "RelativeToolTip": "clientes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T21:48:19.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "produtos.cs",
-              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\produtos.cs",
-              "RelativeDocumentMoniker": "produtos.cs",
-              "ToolTip": "C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\produtos.cs",
-              "RelativeToolTip": "produtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T02:01:16.599Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -53,6 +39,82 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cliente.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\cliente.cs",
+              "RelativeDocumentMoniker": "cliente.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\cliente.cs",
+              "RelativeToolTip": "cliente.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T17:28:03.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "criarProduto.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\criarProduto.cs",
+              "RelativeDocumentMoniker": "criarProduto.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\criarProduto.cs",
+              "RelativeToolTip": "criarProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T22:07:41.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\IProdutos.cs",
+              "RelativeDocumentMoniker": "IProdutos.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\IProdutos.cs",
+              "RelativeToolTip": "IProdutos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T02:01:16.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IClientes.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\IClientes.cs",
+              "RelativeDocumentMoniker": "IClientes.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\IClientes.cs",
+              "RelativeToolTip": "IClientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T21:48:19.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\Produto.cs",
+              "RelativeDocumentMoniker": "Produto.cs",
+              "ToolTip": "C:\\Users\\gamer\\source\\repos\\Tteuw2k24\\prova-pratica\\Produto.cs",
+              "RelativeToolTip": "Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T22:42:09.918Z",
+              "EditorCaption": ""
             }
           ]
         }
