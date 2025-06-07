@@ -10,7 +10,5 @@ namespace provaPratica
         string Nome { get; set; }
         string Email { get; set; }
         string CPF { get; set; }
-
-   
     }
 }
